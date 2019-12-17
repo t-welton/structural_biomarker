@@ -1,6 +1,6 @@
 # structural_biomarker
 
-eplicable brain signatures of emotional bias and memory based on diffusion kurtosis imaging of white matter tracts
+Replicable brain signatures of emotional bias and memory based on diffusion kurtosis imaging of white matter tracts
 
 Thomas Welton,  Ben E. Indja,  Jerome J. Maller,  Jonathon P. Fanning,   Michael P. Vallely, Stuart M. Grieve
 
